@@ -1,0 +1,53 @@
+.HeadStyling {
+    color: blue;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 1.5em;
+}
+
+.tag {
+    position: relative;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: justify;
+    margin-top: 5px;
+}
+
+#tags {
+    background-color: white;
+    position: absolute;
+    left: 1250px;
+    border: 2px solid black;
+    padding: 20px;
+    padding-top: 10px;
+
+}
+
+.h3 {
+    margin-top: 0px;
+    margin-bottom: 0.1px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+#contends {
+    margin-left: 20px;
+    position: fixed;
+    font-size: large;
+}
+
+#img {
+    width: 300px;
+    position: static;
+}
+
+#SRK {
+    width: 7cm;
+    margin-left: 24cm;
+    margin-top: 1.5cm;
+    position: absolute;
+    border: 2px solid black;
+    padding: 15px;
+}
